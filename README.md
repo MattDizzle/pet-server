@@ -1,4 +1,6 @@
 # Petful Server
+### project by Matt P. and Matt R.
+Live Client Link: https://pet-client.vercel.app/
 
 ## Introduction
 
@@ -26,6 +28,9 @@ The app is a demo for a queue stack data structure. When the compoments mount, a
 ---
 
 ### Sample API requests
+
+#### Base URL
+https://agile-earth-54183.herokuapp.com/api
 
 Returns json data
 
