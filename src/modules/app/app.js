@@ -12,4 +12,8 @@ app.use(
 app.use('/api/people', require('../people/people.router'))
 app.use('/api/pets', require('../pets/pets.router'))
 
+app.get('/hello', (req, res) => {
+res.status(200).send('Hello')
+})
+
 module.exports = app
